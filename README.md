@@ -1,6 +1,6 @@
 # Task Management Database
 
-***CREATED BY: William Hellems-Moody***
+### Created by: [William Hellems-Moody](https://www.williamhmoody.com)
 
 ## Overview
 

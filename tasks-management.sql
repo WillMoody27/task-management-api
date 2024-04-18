@@ -1,6 +1,8 @@
 -- CREATED BY: William Hellems-Moody
 -- DATE: 2024-04-18
 
+-- Website: https://www.williamhmoody.com
+
 CREATE DATABASE tasks_management;
 
 \c tasks_management;
